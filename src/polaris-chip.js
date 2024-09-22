@@ -28,7 +28,7 @@ export class PolarisChip extends LitElement {
   constructor() {
     super();
     // a variable on this object called title
-    this.title = 'Chip Default';
+    this.title = 'asdsa';
     this.link = '#';  // New code by me
     this.shiny = false;
   }
